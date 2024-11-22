@@ -8,6 +8,7 @@ body{
 	width:80%;
 	margin:auto;
 	box-shadow:1px 0px 5px grey;
+	border-radius:5px;
 }
 .book{
 	display:flex;
