@@ -20,7 +20,7 @@ body{
 .book .author{
 	color:#777777;
 }
-#price {
+.book {
 	width:100%;
 	background-color:#2ecc71;
 	border:none;
