@@ -11,28 +11,23 @@ body{
 	border-radius:5px;
 }
 .book{
-	display:flex;
-	flex-direction:column;
-	/* justify-content:center; */
-	margin:10px;
-	padding:15px;
+	background-color: #f8f8f8;
 }
 .book .author{
 	color:#777777;
 }
-.book {
-	width:100%;
-	background-color:#2ecc71;
-	border:none;
-	color:white;
-	margin-bottom:10px;
-}
+
 h1{
 	text-align:center;
 }
 
+.book-description{
+	color: rgb(255, 255, 255);
+	background-color: rgb(46, 204, 113);
+}
+
 img{
 	width:100px;
-	margin-left:100px;
+	margin-left:220px;
 	
 }
